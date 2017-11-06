@@ -1,0 +1,12 @@
+Form1 = 0, 0, 885, 442, C, -8, -24, 1084, 650, C
+FormLoadActivities = 52, 52, 937, 494, 
+ScrollActivities = 156, 156, 1041, 598, C
+ClickEvents = 26, 26, 911, 468, C
+Form2 = -20, 115, 955, 496, C, -6, -20, 879, 650, C
+RecordAddition = 130, 130, 1015, 572, C
+Form3 = 0, 0, 0, 0, C, 52, 52, 937, 494, C
+Form4 = 0, 0, 0, 0, C, 78, 78, 963, 520, C
+UserActivity = 208, 208, 1093, 650, C
+RecordDeleteUpdate = 182, 182, 1067, 624, C
+RatingsCalculation = 104, 104, 989, 546, C
+Form5 = 0, 0, 0, 0, C, 104, 104, 989, 546, C
