@@ -74,6 +74,11 @@ Dim X, loc As Integer
 
 X = 0
 loc = 0
+If searchupd = "" Then
+MsgBox "Enter Movie Name First"
+Exit Sub
+End If
+
  Dim cn As ADODB.Connection
     Dim rs As ADODB.Recordset
     Dim db_path As String
@@ -103,6 +108,7 @@ loc = 0
 
  Exit Sub
  End If
+ 
  searchupd = ""
  
 End Sub

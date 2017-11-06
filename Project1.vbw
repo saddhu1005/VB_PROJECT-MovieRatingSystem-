@@ -1,5 +1,5 @@
 Form1 = 0, 0, 885, 442, C, -8, -24, 1084, 650, C
-FormLoadActivities = 52, 52, 937, 494, 
+FormLoadActivities = 52, 52, 937, 494, C
 ScrollActivities = 156, 156, 1041, 598, C
 ClickEvents = 26, 26, 911, 468, C
 Form2 = -20, 115, 955, 496, C, -6, -20, 879, 650, C
