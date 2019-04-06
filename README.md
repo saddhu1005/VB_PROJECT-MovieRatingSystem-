@@ -1,11 +1,14 @@
-# VB_PROJECT-MovieRatingSystem-
-HEllo There
-Project Members Are :-
-1. Mohit Khatri
-2. Sadanand Vishwas
-3. Sheetal Choppakatla
-4. Sarthak Khurana
+# MovieRatingSystem-
+Prerequisites:
+ - Visual Basic 6.0
+ - Mysql
 
-(: (: (: (: (: (: (: (:
-Priority is  important :)
+This prject simulates basic features of a Movie Rating system.
+
+This Application lets the user to:
+  - Login/Register to the system.
+  - Search and view details of a movie.
+  - add modify rating of a movie.
+  - add review to a movie.
+
 
